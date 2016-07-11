@@ -13,6 +13,6 @@
     <releaseNotes>NA</releaseNotes>
   </metadata>
   <files>
-    <file src="*" exclude="web.config"/>
+    <file src="**" exclude="web.config"/>
   </files>
 </package>
