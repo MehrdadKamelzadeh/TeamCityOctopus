@@ -5,8 +5,14 @@
     <version>3.5.0.2</version>
     <title>Sana.Commerce.Startersite</title>
     <authors>Modise</authors>
+    <owners>NA</owners>
+    <licenseUrl>http://Foo</licenseUrl>
+    <projectUrl>http://Foo</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Foo</description>
+    <releaseNotes>NA</releaseNotes>
   </metadata>
   <files>
-  <file src="web.config" exclude="web.config"/>
+    <file src="web.config" exclude="web.config"/>
   </files>
 </package>
