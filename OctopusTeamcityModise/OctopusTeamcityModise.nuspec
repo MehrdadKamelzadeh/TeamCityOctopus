@@ -12,4 +12,7 @@
     <description>Foo</description>
     <releaseNotes>NA</releaseNotes>
   </metadata>
+  <files>
+    <file  exclude="web.config"/>
+  </files>
 </package>
